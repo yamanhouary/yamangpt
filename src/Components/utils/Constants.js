@@ -31,15 +31,15 @@ export const links = [
 export const informations = [
     {
         Questions: 'Full Name',
-        Answer: 'Hamza Mohamed'
+        Answer: 'Yaman Houary'
     },
     {
         Questions: 'Age',
-        Answer: '16 Years Old'
+        Answer: '29 Years Old'
     },
     {
         Questions: 'Nationality',
-        Answer: 'Egyption'
+        Answer: 'syrian'
     },
     {
         Questions: 'Languages',
@@ -47,10 +47,10 @@ export const informations = [
     },
     {
         Questions: 'Address',
-        Answer: 'Asala City'
+        Answer: 'aleppo City'
     },
     {
-        Questions: 'Freelance',
+        Questions: 'designer',
         Answer: 'Available'
     }
 ]
@@ -81,42 +81,42 @@ export const ServiceBox = [
 
 export const skills = [
     {
-        skillName: 'HTML5',
+        skillName: 'photoshop',
         percent: '100%',
         Aos: 'fade-up'
     },
     {
-        skillName: 'CSS3',
+        skillName: 'ICDL',
         percent: '95%',
         Aos: 'fade-down'
     },
     {
-        skillName: 'Javascript',
+        skillName: 'Adobe Premiere',
         percent: '70%',
         Aos: 'fade-up'
     },
     {
-        skillName: 'React Js',
+        skillName: 'Adobe AFTER EFFECT',
         percent: '90%',
         Aos: 'fade-down'
     },
     {
-        skillName: 'Material-Ui',
+        skillName: 'adobe illustrator',
         percent: '100%',
         Aos: 'fade-up'
     },
     {
-        skillName: 'TailWind CSS',
+        skillName: 'adobe AUDTION',
         percent: '70%',
         Aos: 'fade-down'
     },
     {
-        skillName: 'Github',
+        skillName: 'SOCAIL MEDIA MANAGMENT',
         percent: '100%',
         Aos: 'fade-up'
     },
     {
-        skillName: 'Git',
+        skillName: 'Technical',
         percent: '100%',
         Aos: 'fade-down'
     }

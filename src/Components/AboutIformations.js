@@ -15,13 +15,13 @@ const AboutIformations = () => {
                     <Typography variant='h4' color={'#fff'} sx={{
                         fontSize: {xs: '24px' , sm: '34px'}
                     }}>
-                        I am <span style={{ color: '#0d6efd' }}>Hamza Mohamed</span>
+                        I am <span style={{ color: '#0d6efd' }}>Yaman Houary</span>
                     </Typography>
                     <Typography variant='h6' color={'#a4acc4'} sx={{
                         fontSize: {xs: '14px' , sm: '20px'},
                         margin: '10px 0'
                     }}>
-                        I am a frontend web developer. I can provide clean code and pixel perfect design. I also make website more & more interactive with web animations.
+                        I am Designer & developer. I can provide Amazing Design and  perfect videos. I also make best services Design more & more interactive with web animations.
                     </Typography>
                     {
                         informations.map((information) => (
