@@ -31,15 +31,15 @@ export const links = [
 export const informations = [
     {
         Questions: 'Full Name',
-        Answer: 'Yaman Houary'
+        Answer: 'Hamza Mohamed'
     },
     {
         Questions: 'Age',
-        Answer: '29 Years Old'
+        Answer: '16 Years Old'
     },
     {
         Questions: 'Nationality',
-        Answer: 'syrian'
+        Answer: 'Egyption'
     },
     {
         Questions: 'Languages',
@@ -47,10 +47,10 @@ export const informations = [
     },
     {
         Questions: 'Address',
-        Answer: 'aleppo City'
+        Answer: 'Asala City'
     },
     {
-        Questions: 'designer',
+        Questions: 'Freelance',
         Answer: 'Available'
     }
 ]
@@ -58,22 +58,22 @@ export const informations = [
 export const ServiceBox = [
     {
         icon: <BrushIcon />,
-        name: 'Brand Design',
-        description: 'The aim of the design is brand as an innovative and sustainable company.',
+        name: 'Web Design',
+        description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem tenetur ratione quod.',
         Aos:  'zoom-in-up'
     },
     
     {
         icon: <CodeIcon />,
-        name: 'poster and cv Design',
-        description: 'CV is indeed important. It is a document that provides a summary of a person's education.',
+        name: 'Web Development',
+        description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem tenetur ratione quod.',
         Aos:  'zoom-in'
     },
     
     {
         icon: <PhoneAndroidIcon />,
-        name: 'videos Design',
-        description: 'In today's digital age, videos have become a powerful medium for communication, marketing, entertainment, and education.',
+        name: 'Responsive Design',
+        description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem tenetur ratione quod.',
         Aos:  'zoom-in-down'
     }
     
@@ -81,42 +81,42 @@ export const ServiceBox = [
 
 export const skills = [
     {
-        skillName: 'photoshop',
+        skillName: 'HTML5',
         percent: '100%',
         Aos: 'fade-up'
     },
     {
-        skillName: 'ICDL',
+        skillName: 'CSS3',
         percent: '95%',
         Aos: 'fade-down'
     },
     {
-        skillName: 'Adobe Premiere',
+        skillName: 'Javascript',
         percent: '70%',
         Aos: 'fade-up'
     },
     {
-        skillName: 'Adobe AFTER EFFECT',
+        skillName: 'React Js',
         percent: '90%',
         Aos: 'fade-down'
     },
     {
-        skillName: 'adobe illustrator',
+        skillName: 'Material-Ui',
         percent: '100%',
         Aos: 'fade-up'
     },
     {
-        skillName: 'adobe AUDTION',
+        skillName: 'TailWind CSS',
         percent: '70%',
         Aos: 'fade-down'
     },
     {
-        skillName: 'SOCAIL MEDIA MANAGMENT',
+        skillName: 'Github',
         percent: '100%',
         Aos: 'fade-up'
     },
     {
-        skillName: 'Technical',
+        skillName: 'Git',
         percent: '100%',
         Aos: 'fade-down'
     }
@@ -166,44 +166,44 @@ export const reviews = [
 export const Work = [
     {
         image: '/images/Screenshot 2023-03-25 214627.png',
-        projectName: 'Brands Design',
+        projectName: 'E-Commerce Store',
         projectVercelLink: 'e-commerce-ten-delta.vercel.app',
-        About: '(vector , jpg , png , witn book color)',
+        About: '(HTML , CSS , JS , Responsive Media Query)',
         Aos: 'flip-right'
     },
     {
         image: '/images/Screenshot 2023-03-25 215316.png',
-        projectName: 'Print ADS Poster',
+        projectName: 'Car Company',
         projectVercelLink: 'car-company.vercel.app',
-        About: '(poster , flyer , brochure & Menu Restourant)',
+        About: '(HTML , CSS , Responsive Bootstrap)',
         Aos: 'flip-left'
     },
     {
         image: '/images/Screenshot 2023-04-13 052018.png',
-        projectName: 'visual identity',
+        projectName: 'Portfolio',
         projectVercelLink: 'https://portfolio-two-rho-teal.vercel.app/',
-        About: '(logo , card , and all items such as Envelope, seal and paper )',
+        About: '(React js , Material Ui , Responsive by Material Ui )',
         Aos: 'flip-right'
     },
     {
         image: '/images/Screenshot 2023-04-13 055001.png',
-        projectName: "Sticker Clothes",
+        projectName: "Aisha's Portfolio",
         projectVercelLink: 'https://otere-portfolio-react.vercel.app/',
-        About: '(T-Shirts Design , Sticker , & convert any picture ro vector)',
+        About: '(React js , Wow js , Responsive by Bootstrap)',
         Aos: 'flip-left'
     },
     {
         image: '/images/Screenshot 2023-04-13 061349.png',
-        projectName: 'Video Editing & Design',
+        projectName: 'Khamsat',
         projectVercelLink: 'https://khamsat-xi.vercel.app/',
-        About: '(intro , slides , instagram & facebook stories , motion)',
+        About: '(HTML , CSS)',
         Aos: 'flip-right'
     },
     {
         image: '/images/Screenshot 2023-04-13 062341.png',
-        projectName: 'Social Media Marketing',
+        projectName: 'Gaco',
         projectVercelLink: 'https://landscaping-eta.vercel.app/',
-        About: '(Followers increase , Increase reaction , Increase business)',
+        About: '(HTML , CSS , Js)',
         Aos: 'flip-left'
     },
     {
@@ -233,17 +233,17 @@ export const contactInformation = [
     {
         icon: <LocalPhoneOutlinedIcon />,
         title: 'Phone',
-        information: '+9-7158-694-119-3'
+        information: '+2-0100-703-8325'
     },
     {
         icon: <EmailOutlinedIcon />,
         title: 'Email',
-        information: 'yamanhouary1993@gmail.com'
+        information: 'hamzasadeq41@gmail.com'
     },
     {
         icon: <FmdGoodOutlinedIcon />,
         title: 'Address',
-        information: 'DUBAI City , Dubai'
+        information: 'Asala City , New Cairo'
     },
 ]
 

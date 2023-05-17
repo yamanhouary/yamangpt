@@ -48,7 +48,7 @@ const Sidebar = () => {
           textAlign: 'center',
           padding: '30px 0'
         }}>
-          <Typography variant='h6' fontSize={'16px'} color={'#a4acc4'}>@ 2023 <strong>Yaman Houary</strong></Typography>
+          <Typography variant='h6' fontSize={'16px'} color={'#a4acc4'}>@ 2023 <strong>Hamza Mohamed</strong></Typography>
         </div>
       </Box>
     </Stack>

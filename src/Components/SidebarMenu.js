@@ -52,7 +52,7 @@ const SidebarMenu = () => {
                 }
             </Box>
             <Box paddingTop={'20px'}>
-                <Typography variant='h6' fontSize={'16px'} color={'#a4acc4'}>@ 2023 <strong>Yaman Houary</strong></Typography>
+                <Typography variant='h6' fontSize={'16px'} color={'#a4acc4'}>@ 2023 <strong>Hamza Mohamed</strong></Typography>
             </Box>
         </Stack>
     )
